@@ -1,0 +1,31 @@
+body {
+background-color:#fafafa;
+}
+
+#wrap {
+color:#000;
+}
+		
+button {
+background:#f2f2f2;
+border:1px solid #aaa;
+background-image: linear-gradient(to bottom, #f7f7f7, #e8e8e8);
+color:#000;
+}
+
+button:hover {
+background:#D2E8F5;
+background-image: linear-gradient(to bottom, #DCEFFA, #C7DFED);
+color:#000;
+}
+
+button:active {
+background:#B0CFE0;
+color:#000;
+background-image: linear-gradient(to bottom, #C7DFED, #DCEFFA);
+color:#000;
+}
+
+#darkMode {
+border-top-color:#131414;
+}
